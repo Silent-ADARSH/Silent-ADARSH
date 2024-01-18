@@ -4,7 +4,7 @@ I am a coding enthusiast and tech-lover. Currently I am doing my B. TECH from SG
 Thank you for taking your time reading this!😄
  </h3>
 
-- 🌱 I’m currently learning Python,DSA **Tensorflow, Keras, Numpy, Matplotlib**
+- 🌱 I’m currently learning Python & practising DSA 
 
 - 📫 How to reach me **cheenu0123@gmail.com**
 
