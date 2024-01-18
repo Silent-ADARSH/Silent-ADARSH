@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adarsh_Agrawal(Silent-ADARSH)</h1>
-<h3 align="center">A coding enthusiast who is currently pursusing B.Tech in IT</h3>
+<h3 align="center">Hello there 👋!!!
+I am a coding enthusiast and tech-lover. Currently I am doing my B. TECH from SGSITS College in the IT branch.I cultivated an interest in AI, Robotics, Game Development and many other fields.<br>
+Thank you for taking your time reading this!😄
+ </h3>
 
 - 🌱 I’m currently learning Python,DSA **Tensorflow, Keras, Numpy, Matplotlib**
 
