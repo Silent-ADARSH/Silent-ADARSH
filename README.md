@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Silent-ADARSH
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C/Cpp 
+- 🌱 I’m currently learning Python
+- I have Practices and somewhat proficiency in Java / C / HTML / CSS
+- I have some experience in working Tensorflow,Kears
+- I am also currently practising DSA
+  
 
 
 
